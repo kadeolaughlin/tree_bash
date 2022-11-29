@@ -1,4 +1,5 @@
 #!/bin/bash
+#configuring git
 ##Based on https://blog.niklasottosson.com/linux/bash-script-simulating-the-tree-command/
 olddir=$PWD;
 declare -i alldirs=0;
